@@ -89,3 +89,9 @@ QURIO Circuit Builder aims to bridge the gap between theoretical quantum-computi
 * Improved quantum-state visualizations
 * More interactive learning features
 * Integration with additional quantum simulators
+
+  # QURIO — Quantum Circuit Builder
+
+An interactive quantum circuit-building tool that lets learners create quantum circuits, simulate them using Qiskit Aer, and visualize the results.
+
+🔗 **Live Demo:** https://circuitbuilder-rose.vercel.app/
