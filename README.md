@@ -1,4 +1,4 @@
-# QURIO Circuit Builder
+# QURIO Circuit Builder 
 
 QURIO Circuit Builder is an interactive web-based quantum circuit builder designed to make quantum computing easier to learn through hands-on experimentation.
 
