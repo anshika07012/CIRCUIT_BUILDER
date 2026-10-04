@@ -663,7 +663,7 @@ function App() {
 
       const response =
         await fetch(
-          "http://127.0.0.1:8001/simulate",
+        "https://circuit-builder-pn3r.onrender.com/simulate",
           {
             method: "POST",
 
